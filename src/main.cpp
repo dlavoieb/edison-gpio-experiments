@@ -4,7 +4,7 @@ using namespace std;
 
 int main(int argc, char ** argv)
 {
-    GPIOClass pin7("48"); // sheiled pin 7 is gpio 48
+    GPIOClass pin7("48"); // shield pin 7 is gpio 48
     GPIOClass gpio255 ("255"); // direction gpio and pull res
     GPIOClass gpio_214_tristate("214"); // tristate gpio
     GPIOClass gpio223("223");
