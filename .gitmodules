@@ -1,0 +1,3 @@
+[submodule "a"]
+    path = src/GPIOClass
+    url = git@github.com:dlavoieb/RaspberryPi-GPIOClass-v2.git
